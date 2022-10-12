@@ -1,3 +1,12 @@
+
+# Hacktoberfest2022'
+
+## This repository contains short and easy documentation for various IDE's and text editors. This repository is also a part of the [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com/) event
+
+**Adhere to [code of conduct](/CODE_OF_CONDUCT.md) guidelines while contributing and taking part in discussions**
+
+**_License: [MIT](LICENSE)_**
+
 Submit your PR on this new repo Hacktoberfest , There we are merging all PR.
 In this current repo, there are alot of conflicts, we are not merging until all conflicts get resolved. Hacktoberfest { Live Website}
 

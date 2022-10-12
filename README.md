@@ -7,88 +7,71 @@
 
 **_License: [MIT](LICENSE)_**
 
-Submit your PR on this new repo Hacktoberfest , There we are merging all PR.
-In this current repo, there are alot of conflicts, we are not merging until all conflicts get resolved. Hacktoberfest { Live Website}
+<h1 align="center">HacktoberFest 2022</h1>
 
-This is a beginner-friendly project to help you get started with your hacktoberfest. If you don't know where to start, feel free to watch the videos linked below, and read the contribution rules. Happy Learning <3 💙 !!
+![HacktoberFest 2021](logo.png)
 
-P.S. Star ⭐ and Share this repository, if you had fun!! 😍
+<p align="center">
+   <img alt="GitHub pull-requests" src="https://img.shields.io/github/issues-pr/Edwinliby/Hacktoberfest2022">
+   <img alt="GitHub forks" src="https://img.shields.io/github/forks/Edwinliby/Hacktoberfest2022">
+   <img alt="contributors" src="https://img.shields.io/github/contributors/Edwinliby/Hacktoberfest2022">
+   <img alt="GitHub stars" src="https://img.shields.io/github/stars/Edwinliby/Hacktoberfest2022">
+</p>
 
-Hacktoberfest 2022 Event Completed
+# Contributers 🏆
 
-📌 Videos 📽️:
-Hacktoberfest Intro
-How to pull request [Overview]
-Merge Conflict / comment
-Contribution Rules📚:
-You are allowed to make pull requests that break the rules. We just merge it ;)
-Do NOT add any build steps e.g npm install (we want to keep this a simple static site)
-Do NOT remove other content.
-Styling/code can be pretty, ugly or stupid, big or small as long as it works
-Try to keep pull requests small to minimize merge conflicts
-Getting Started 🤩🤗:
-Fork this repo (button on top)
-Clone on your local machine
-git clone https://github.com/fineanmol/Hacktoberfest2022.git
-Navigate to project directory.
-cd Hacktoberfest2022
-Create a new Branch
-git checkout -b my-new-branch
-git add .
-Commit your changes.
-git commit -m "Relevant message"
-Then push
-git push origin my-new-branch
-Create a new pull request from your forked repository
+![](https://contrib.rocks/image?repo=Edwinliby/Hacktoberfest2022)
 
-Avoid Conflicts {Syncing your fork}
-An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.
+# What's HacktoberFest 2022❓
 
-git remote add upstream https://github.com/fineanmol/Hacktoberfest2022
-You can verify that the new remote has been added by typing
+HacktoberFest is the easiest way to get into open source! Hacktoberfest is a month long festival of open source code presented by [Digital Ocean](https://www.digitalocean.com/) and [DEV](https://www.dev.to/) this year in 2022.
 
-git remote -v
-To pull any new changes from your parent repo simply run
+During the entire month of October 2022, all you have to do is contribute to any open source projects and open at least 4 pull requests. Yes, any project and any kind of contributions. It can be a be a bug fix, improvement, or even a documentation change! And win a T-Shirt and awesome stickers.
 
-git merge upstream/master
-This will give you any eventual conflicts and allow you to easily solve them in your repo. It's a good idea to use it frequently in between your own commits to make sure that your repo is up to date with its parent.
+If you’ve never contributed to open source before, this is the perfect time to get started because Hacktoberfest provides a large list of available contribution opportunities (and yes, there are always plenty for beginners too).
 
-For more information on syncing forks read this article from Github.
+---
 
-Swags of Hacktoberfest:
-Many of the candidates get attracted towards hacktoberfest to get swags . So, after 4 successfully merged pull request as for 2021 you will be eligible to get a Hacktoberfest T-shirt and Some stickers on your doorstep.
+# Why Should I Contribute❓
 
-tshirt image
+HacktoberFest has a simple and plain moto.
 
-stickers image
+> Support open source and earn a limited edition T-shirt!
 
+So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop. On plus side, you will get into beautiful world of open source and get the international exposure.
 
-FAQs (Frequently Asked Questions)
-Who all can contribute?
+## **Wait there's more!**
 
-Anyone with a github account and who is signed up for hacktoberfest :)
-Are you getting paid for this?
+# How Can I Contribute❓
 
-Sadly no. But we think we should. This is 100% unofficial and we do it for fun, fame and glory.
-Who are you and why are you doing this?
+It's very easy. You don't need to be an expert in coding and programming. Here are the steps you need to follow to create your -(maybe)- EXAMPLE first pull request within few minutes.
 
-We are two programmers from India Anmol and Ritesh. We are doing this because we love Open Source and Hacktoberfest. We want to make it easier for people to get started with Hacktoberfest and Open Source.
-Why are you not using digitalocean?
+1. **Star this repository.**
+2. **Fork the repo**
+3. **Add any language file python, C, C++, Java, etc...**
+   > Add valid code only. <br>
+   > Don't push the code that is already present.
+4. **Create a new pull request.**
+5. **Wait for your Pull Request to be reviewed and merged!**
+6. **Enjoy and welcome to Hacktoberfest 2022 and Keep Contributing :)**
 
-Because we only know JavaScript and suck at servers. We use now instead.
-Should I come closer to the text saying 'Don't come closer' on the left side of the home tab ?
+> You Can Upload Coded Projects In the Codes Directory
 
-Nope.
-How many pull request (PR) must be made, if I want to get an awesome tshirt from Hacktoberfest 2022?
+---
 
-4
-How do I track my progress to get an awesome shirt from Hacktoberfest 2022?
+## Code Of Conduct
 
-go to :. (Check Out Your Own Stats at Right Top)
-What is the duration of Hacktoberfest 2022?
+**Examples of behavior that contributes to creating a positive environment :**
 
-It is from 1st october to 31st october 2022...
-What is the event for?
+- Using welcoming and inclusive language
+- Gracefully accepting constructive criticism
+- Focusing on what is best for the community
+- Being respectful of differing viewpoints and experiences
 
-For the open source community engagement
-We will do our best to merge as much as possible from everyone. However, time is limited and the merge conflicts are horrible 😲 <3
+**Examples of unacceptable behavior by participants include:**
+
+- Trolling, insulting/derogatory comments, and personal or political attacks
+- Public or private harassment
+- Publishing others' private information, such as a physical or electronic address, without explicit permission
+
+---

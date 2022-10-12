@@ -1,7 +1,7 @@
 
 # Hacktoberfest2022'
 
-## This repository contains short and easy documentation for various IDE's and text editors. This repository is also a part of the [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com/) event
+## This repository contains all the programing code. This repository is also a part of the [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com/) event
 
 **Adhere to [code of conduct](/CODE_OF_CONDUCT.md) guidelines while contributing and taking part in discussions**
 

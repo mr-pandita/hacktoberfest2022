@@ -9,7 +9,8 @@
 
 <h1 align="center">HacktoberFest 2022</h1>
 
-![HacktoberFest 2021](logo.png)
+<img src="https://github.com/Edwinliby/Hacktoberfest2022/raw/main/logo.png">
+
 
 <p align="center">
    <img alt="GitHub pull-requests" src="https://img.shields.io/github/issues-pr/Edwinliby/Hacktoberfest2022">
@@ -18,9 +19,6 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Edwinliby/Hacktoberfest2022">
 </p>
 
-# Contributers 🏆
-
-![](https://contrib.rocks/image?repo=Edwinliby/Hacktoberfest2022)
 
 # What's HacktoberFest 2022❓
 

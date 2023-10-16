@@ -1,75 +1,70 @@
+# Getting Started with Create React App
 
-# Hacktoberfest2022'
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## This repository contains all the programing code. This repository is also a part of the [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com/) event
+## Available Scripts
 
-**Adhere to [code of conduct](/CODE_OF_CONDUCT.md) guidelines while contributing and taking part in discussions**
+In the project directory, you can run:
 
-**_License: [MIT](LICENSE)_**
+### `npm start`
 
-<h1 align="center">HacktoberFest 2022</h1>
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-<img src="https://github.com/Edwinliby/Hacktoberfest2022/raw/main/logo.png">
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
+### `npm test`
 
-<p align="center">
-   <img alt="GitHub pull-requests" src="https://img.shields.io/github/issues-pr/Edwinliby/Hacktoberfest2022">
-   <img alt="GitHub forks" src="https://img.shields.io/github/forks/Edwinliby/Hacktoberfest2022">
-   <img alt="contributors" src="https://img.shields.io/github/contributors/Edwinliby/Hacktoberfest2022">
-   <img alt="GitHub stars" src="https://img.shields.io/github/stars/Edwinliby/Hacktoberfest2022">
-</p>
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+### `npm run build`
 
-# What's HacktoberFest 2022❓
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-HacktoberFest is the easiest way to get into open source! Hacktoberfest is a month long festival of open source code presented by [Digital Ocean](https://www.digitalocean.com/) and [DEV](https://www.dev.to/) this year in 2022.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-During the entire month of October 2022, all you have to do is contribute to any open source projects and open at least 4 pull requests. Yes, any project and any kind of contributions. It can be a be a bug fix, improvement, or even a documentation change! And win a T-Shirt and awesome stickers.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-If you’ve never contributed to open source before, this is the perfect time to get started because Hacktoberfest provides a large list of available contribution opportunities (and yes, there are always plenty for beginners too).
+### `npm run eject`
 
----
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-# Why Should I Contribute❓
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-HacktoberFest has a simple and plain moto.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-> Support open source and earn a limited edition T-shirt!
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop. On plus side, you will get into beautiful world of open source and get the international exposure.
+## Learn More
 
-## **Wait there's more!**
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-# How Can I Contribute❓
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-It's very easy. You don't need to be an expert in coding and programming. Here are the steps you need to follow to create your -(maybe)- EXAMPLE first pull request within few minutes.
+### Code Splitting
 
-1. **Star this repository.**
-2. **Fork the repo**
-3. **Add any language file python, C, C++, Java, etc...**
-   > Add valid code only. <br>
-   > Don't push the code that is already present.
-4. **Create a new pull request.**
-5. **Wait for your Pull Request to be reviewed and merged!**
-6. **Enjoy and welcome to Hacktoberfest 2022 and Keep Contributing :)**
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-> You Can Upload Coded Projects In the Codes Directory
+### Analyzing the Bundle Size
 
----
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-## Code Of Conduct
+### Making a Progressive Web App
 
-**Examples of behavior that contributes to creating a positive environment :**
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-- Using welcoming and inclusive language
-- Gracefully accepting constructive criticism
-- Focusing on what is best for the community
-- Being respectful of differing viewpoints and experiences
+### Advanced Configuration
 
-**Examples of unacceptable behavior by participants include:**
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-- Trolling, insulting/derogatory comments, and personal or political attacks
-- Public or private harassment
-- Publishing others' private information, such as a physical or electronic address, without explicit permission
+### Deployment
 
----
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
